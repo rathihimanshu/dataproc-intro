@@ -37,8 +37,3 @@ Proxy server: localhost:8088
 
 Cluster properties: https://cloud.google.com/dataproc/docs/concepts/cluster-properties  
 Initialization actions: https://github.com/GoogleCloudPlatform/dataproc-initialization-actions  
-
-### Conclusion
-Cloud Dataproc documentation: https://cloud.google.com/dataproc/docs  
-Cloud Academy community forums: http://cloudacademy.com/community  
-Support: support@cloudacademy.com
